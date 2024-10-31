@@ -1,5 +1,5 @@
 # EXTRUST
-##### This repository contains the code for Intent-based Trust Evaluation.
+##### This repository contains the code for Intent-based Trust EvaluationEXplainable Temporal Trust Evaluation.
 
 ## Requirements
 ### Main package requirements:
