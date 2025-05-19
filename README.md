@@ -1,4 +1,4 @@
-# EXTRUST
+# EDTE
 ##### This repository contains the code for Explainable Dynamic Trust Evaluation for Out-of-Distribution Environments.
 
 ## Requirements
